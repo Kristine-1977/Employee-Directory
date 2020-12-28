@@ -9,3 +9,4 @@ Jest
 
 Screenshots of the CLI:
 ![app demo](../Assets/appdemo.gif)
+The application passes all required tests and it ready for use immediately.
